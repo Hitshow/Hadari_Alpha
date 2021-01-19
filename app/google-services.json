@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "91170469222",
+    "project_id": "deliever-67604",
+    "storage_bucket": "deliever-67604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91170469222:android:6cf23ba0816c8c0654c4a7",
+        "android_client_info": {
+          "package_name": "com.example.hadari_alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91170469222-jisifqlh83urimf4vbuqif5tm2m8uu6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hadari_alpha",
+            "certificate_hash": "d80bf154cdc24ffd7d42f102af2ba22e37398334"
+          }
+        },
+        {
+          "client_id": "91170469222-enqf6oidej29o5s2vib0dklfsckjku6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88yBgid8dkNsoFMUGoyxFvhNZi24U3P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91170469222-enqf6oidej29o5s2vib0dklfsckjku6e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
